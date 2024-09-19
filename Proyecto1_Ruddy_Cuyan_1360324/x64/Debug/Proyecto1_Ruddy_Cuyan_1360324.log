@@ -1,0 +1,17 @@
+﻿  Prestamo.cpp
+  PrestamoAutomovil.cpp
+C:\Users\ruddy\Downloads\Proyecto\Proyecto1_Ruddy_Cuyan_1360324\Proyecto1_Ruddy_Cuyan_1360324\PrestamoAutomovil.cpp(17,71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ruddy\Downloads\Proyecto\Proyecto1_Ruddy_Cuyan_1360324\Proyecto1_Ruddy_Cuyan_1360324\PrestamoAutomovil.cpp(28,29): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  PrestamoHipotecario.cpp
+C:\Users\ruddy\Downloads\Proyecto\Proyecto1_Ruddy_Cuyan_1360324\Proyecto1_Ruddy_Cuyan_1360324\PrestamoHipotecario.cpp(10,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  PrestamoPersonal.cpp
+C:\Users\ruddy\Downloads\Proyecto\Proyecto1_Ruddy_Cuyan_1360324\Proyecto1_Ruddy_Cuyan_1360324\PrestamoPersonal.cpp(13,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ruddy\Downloads\Proyecto\Proyecto1_Ruddy_Cuyan_1360324\Proyecto1_Ruddy_Cuyan_1360324\PrestamoPersonal.cpp(25,42): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\ruddy\Downloads\Proyecto\Proyecto1_Ruddy_Cuyan_1360324\Proyecto1_Ruddy_Cuyan_1360324\PrestamoPersonal.cpp(25,42): warning C4244:         with
+C:\Users\ruddy\Downloads\Proyecto\Proyecto1_Ruddy_Cuyan_1360324\Proyecto1_Ruddy_Cuyan_1360324\PrestamoPersonal.cpp(25,42): warning C4244:         [
+C:\Users\ruddy\Downloads\Proyecto\Proyecto1_Ruddy_Cuyan_1360324\Proyecto1_Ruddy_Cuyan_1360324\PrestamoPersonal.cpp(25,42): warning C4244:             _Rep=__int64
+C:\Users\ruddy\Downloads\Proyecto\Proyecto1_Ruddy_Cuyan_1360324\Proyecto1_Ruddy_Cuyan_1360324\PrestamoPersonal.cpp(25,42): warning C4244:         ]
+  Proyecto1_Ruddy_Cuyan_1360324.cpp
+C:\Users\ruddy\Downloads\Proyecto\Proyecto1_Ruddy_Cuyan_1360324\Proyecto1_Ruddy_Cuyan_1360324\Proyecto1_Ruddy_Cuyan_1360324.cpp(16,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  Proyecto1_Ruddy_Cuyan_1360324.vcxproj -> C:\Users\ruddy\Downloads\Proyecto\Proyecto1_Ruddy_Cuyan_1360324\x64\Debug\Proyecto1_Ruddy_Cuyan_1360324.exe
