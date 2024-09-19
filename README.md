@@ -1,0 +1,3 @@
+Este es un proyecto de segundo semestre del curso "Programacion avanzada", El proposito que se le dio al proyecto fue comprender el uso de funciones virtuales aplicando herencia de clases y punteros (Direccion de memoria).
+El nombre de este proyecto es "Gestion de Prestamos", La funcionalidad de este es calcular los intereses de tres diferentes tipos de prestamos los cuales son "Prestamo Personal", "Prestamo Hipotecario" y por ultimo "Prestamo de Automovil".
+El calculo del interes es diferente para cada uno de estos, asi tambien para el pago. El trabajo esta realizado unicamente por Ruddy Cuyan estudiante de Ingenieria en informatica y sistemas de la Universidad Rafael Landivar.
